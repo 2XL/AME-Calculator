@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AMECalculadoraIVA</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="price">Price</string>
+    <string name="iva">% IVA</string>
+    <string name="total">Total</string>
+    <string name="calculate">Calculate</string>
+    <string name="bGoConverter">Goto Coin Converter</string>
+    <string name="bGoCalculadoraIVA">Goto Calculadora IVA</string>
+    <string name="bConvert">Convert</string>
+    <string name="tvBase">Base</string>
+    <string name="tvResult">Result</string>
+    <string name="tvSouceCoin">Souce Coin</string>
+    <string name="tvTargetCoin">Target Coin</string>
+
+</resources>
